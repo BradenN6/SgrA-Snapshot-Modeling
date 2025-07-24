@@ -6,7 +6,7 @@ INPUT_DIR="data_comrade"
 
 # List all matching .jls files into an array (sorted to maintain order)
 #INPUT_FILES=($(ls ${INPUT_DIR}/hops_3599_SGRA_LO_netcal_LMTcal_normalized_10s_preprocessed_snapshot_120_noisefrac0.02_scan*.jls | sort))
-INPUT_FILES=("${INPUT_DIR}/hops_3599_SGRA_LO_netcal_LMTcal_normalized_10s_preprocessed_snapshot_120_noisefrac0.02_scan10.jls")
+INPUT_FILES=("${INPUT_DIR}/hops_3599_SGRA_LO_netcal_LMTcal_normalized_10s_preprocessed_snapshot_120_noisefrac0.02_scan81.jls")
 
 # Select the input file for this array task
 #INPUT_FILE=${INPUT_FILES[$SLURM_ARRAY_TASK_ID]}
@@ -19,12 +19,12 @@ echo "Julia Path: $julia_path"
 counter=0
 
 for INPUT_FILE in "${INPUT_FILES[@]}"; do
-  scan_num=$(echo "$filename" | grep -oP 'scan\K[0-9]+')
+  scan_num=$(echo "$INPUT_FILE" | grep -oP 'scan\K[0-9]+')
   padded_scan_num=$(printf "%03d" "$scan_num")
   output_file="stdout-$padded_scan_num.txt"
   err_file="stderr-$padded_scan_num.txt"
   echo "Index: $counter"
   echo "Using input file: $INPUT_FILE"
-  $julia_path --threads 24 -e "include(\"SgrAfits.jl\"); SnapshotModeling.main([\"$INPUT_FILE\"])" > >(tee $output_file) 2> >(tee $err_file >&2)
+  $julia_path --threads 4 -e "include(\"SgrAfits.jl\"); SnapshotModeling.main([\"$INPUT_FILE\"])" > >(tee $output_file) 2> >(tee $err_file >&2)
   ((counter++))
 done

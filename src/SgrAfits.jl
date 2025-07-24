@@ -185,11 +185,11 @@ function pigeons_sample(post, output_dir, snapshot_ID; mpi=true,
     if mpi
         setup_mpi(
             submission_system = :slurm,
-            environment_modules = ["intel", "intelmpi"],
+            environment_modules = ["intel", "intelmpi"], # gcc, openmpi for anvil
             mpiexec = """srun -n \$SLURM_NTASKS --mpi=pmi2 --mem-per-cpu 2G"""
         )
 
-        pt = pigeons(
+        mpi_run = pigeons(
             target = fpost,
             explorer = SliceSampler(),
             record = [traces, round_trip, Pigeons.timing_extrema, log_sum_ratio,
@@ -204,6 +204,8 @@ function pigeons_sample(post, output_dir, snapshot_ID; mpi=true,
             ),
             n_rounds = n_rounds
         )
+
+        pt = Pigeons.load(mpi_run)
     else
         # Multithreaded Pigeons
         pt = pigeons(target=fpost, explorer=SliceSampler(), 
@@ -326,8 +328,8 @@ function pigeons_cluster(post, output_dir, snapshot_ID; mpi=true,
     if complete == false
         while loop
             if contains((@capture_out run(`squeue -p blackhole`)), String(job_id))
-                println("Sampling is ongoing. Sleeping for 30 minutes.")
-                sleep(1800)  # 1h in seconds 
+                println("Sampling is ongoing. Sleeping for one hour.")
+                sleep(3600)  # 1h in seconds 
             else
                 loop = false
             end
@@ -487,6 +489,21 @@ function plot_posterior_density(chain, fields, labels, titles, output_dir, snaps
 end
 
 
+function plot_residuals(post, chain, output_dir)
+    """
+    Plot normalized residuals
+    """
+
+    rd = residuals(post, chain[end])
+    fig, ax = plotfields(rd[1], uvdist, :res, axis_kwargs = (; ylabel = "Norm. Res. Vis. Amplitude"))
+    plotfields!(fig[2, 1], rd[2], uvdist, :res, axis_kwargs = (; ylabel = "Norm. Res. Vis. Phase"))
+
+    #res_plot = plotfields(res[1], :uvdist, :res)
+    save(joinpath(@__DIR__, output_dir, "$snapshot_ID-residuals.png"), fig)
+    println("Residuals plotted.")
+end
+
+
 function plot_corners(chain, fields, title, output_dir, snapshot_ID)
     """
     Plot pair/corner plots of desired parameters
@@ -506,6 +523,21 @@ function plot_corners(chain, fields, title, output_dir, snapshot_ID)
     pplt = pairplot(subset)
     save(joinpath(@__DIR__, output_dir, "$snapshot_ID-pairplot_$title.png"), pplt)
 
+end
+
+
+function plot_coverage(output_dir, data_path)
+    """
+    Plot u-v coverage
+
+    WARNING: requires Pyehtim loaded
+    """
+
+    obseht = ehtim.obsdata.load_uvfits(data_path)
+    #obs = Pyehtim.scan_average(obseht)
+    coh = extract_table(obs, Coherencies())
+    plt = plotfields(coh, U, V, axis_kwargs = (xreversed = true,))
+    save(joinpath(@__DIR__, output_dir, "$snapshot_ID-uv_coverage.png"), plt)
 end
 
 """
@@ -529,8 +561,9 @@ function main(args)
     println("Model: $model.")
 
     sampler = "pigeons"  # dynesty,pigeons
-    task = "sampling"  # sampling,analysis
+    task = "analysis"  # sampling,analysis
     # TODO load pigeons chain jld2
+    analysis_source = "chain"  # pt,chain
 
     # if dynesty is used
     dynamic = true
@@ -551,7 +584,8 @@ function main(args)
     println("Number of Live Points for Dynesty: $nlive_points.")
     println("dlogz for Dynesty: $dlogz.")
 
-    data_path = joinpath((@__DIR__), "pigeons_posterior_chain.jld2")
+    data_path = joinpath((@__DIR__), "snapshot-modeling/scan157_pigeons/scan157-posterior_chain.jld2")
+    mpi_run = joinpath((@__DIR__), "results/all/2025-07-22-14-28-36-oSw4GHoe")
 
     """ 
     Load Data
@@ -572,7 +606,6 @@ function main(args)
     end
     #end
 
-
     """
     Priors
     """
@@ -592,7 +625,7 @@ function main(args)
         yg = Uniform(-μas2rad(80.0), μas2rad(80.0))
     )
 
-    # physically-motivated priors for ** M87 Data ** based on Chang+2024
+    # physically-motivated priors
     ϵ = 0.01  # tolerance to exclude zero
 
     priorKrang = (
@@ -673,13 +706,35 @@ function main(args)
 
             println("Chain read in.")
         elseif sampler == "pigeons"
-            println("Data Path: $data_path.")
-            #@load data_path equal_weight_chain
+            if analysis_source == "chain"
+                println("Data Path: $data_path.")
     
-            data = JLD2.load(data_path)
-            chain = data["chain"]
+                data = JLD2.load(data_path)
+                chain = data["chain"]
 
-            println("Chain read in.")
+                println("Chain read in.")
+            elseif analysis_source == "pt"
+                # Flatten parameter space and move from constrained parameters to
+                # (-∞, ∞) support using 'asflat'
+                fpost = asflat(post)
+                ndim = dimension(fpost)
+                println("Flat Space Dimensions: $ndim")
+
+                pt = Pigeons.PT(mpi_run)
+
+                # Save
+                @save joinpath(@__DIR__, output_dir, "$snapshot_ID-pt.jld2") pt
+
+                # Transforms back into parameter space with 'NamedTuple' format
+                # Posterior chain matches units in prior
+                chain = sample_array(fpost, pt)
+
+                # Save transformed chain
+                @save joinpath(@__DIR__, output_dir, "$snapshot_ID-posterior_chain.jld2") chain
+
+                println("Pigeons Sampler Complete. Chain Saved.")
+                println("See results/latest for checkpoints.")
+            end
         end
     end
 
@@ -688,7 +743,7 @@ function main(args)
     """
 
     # Image Reconstruction
-    mimg, simg = image_reconstruction(post, chain, skym, output_dir, snapshot_ID)
+    mimg, simg = image_reconstruction(post, chain, skym, output_dir, snapshot_ID; img_draws=true, fov=200.0, pix=128)
 
     # Posterior Density Plots
     if model == "krang"
@@ -776,7 +831,9 @@ function main(args)
 
     plot_corners(chain, pair_fields, "all", output_dir, snapshot_ID)
 
-    exit()
+    #plot_residuals(post, chain, output_dir)
+
+    #exit()
 
 end
 
