@@ -1,0 +1,299 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+% type= article
+\bibitem[{B. {Balick} \& R.~L. {Brown}(1974){Balick} \& {Brown}}]{1974ApJ...194..265B}
+{Balick}, B., \& {Brown}, R.~L. 1974, \bibinfo{title}{{Intense sub-arcsecond structure in the galactic center.},} \apj, 194, 265, \dodoi{10.1086/153242}
+
+% type= inproceedings
+\bibitem[{J.~M. {Bardeen}(1973){Bardeen}}]{1973blho.conf..215B}
+{Bardeen}, J.~M. 1973, \bibinfo{title}{{Timelike and null geodesics in the Kerr metric.},} in Black Holes (Les Astres Occlus), ed. C.~{Dewitt} \& B.~S. {Dewitt}, 215--239
+
+% type= inproceedings
+\bibitem[{M. Biron-Lattes {et~al.}(2024)Biron-Lattes, Surjanovic, Syed, Campbell, \& Bouchard-Cote}]{pmlr-v238-biron-lattes24a}
+Biron-Lattes, M., Surjanovic, N., Syed, S., Campbell, T., \& Bouchard-Cote, A. 2024, \bibinfo{title}{{autoMALA}: Locally adaptive {M}etropolis-adjusted {L}angevin algorithm,} in Proceedings of Machine Learning Research, Vol. 238, Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, ed. S.~Dasgupta, S.~Mandt, \& Y.~Li (PMLR), 4600--4608.
+\newblock \url{https://proceedings.mlr.press/v238/biron-lattes24a.html}
+
+% type= article
+\bibitem[{R.~D. {Blandford} \& R.~L. {Znajek}(1977){Blandford} \& {Znajek}}]{1977MNRAS.179..433B}
+{Blandford}, R.~D., \& {Znajek}, R.~L. 1977, \bibinfo{title}{{Electromagnetic extraction of energy from Kerr black holes.},} \mnras, 179, 433, \dodoi{10.1093/mnras/179.3.433}
+
+% type= inproceedings
+\bibitem[{T.~J. Boerner {et~al.}(2023)Boerner, Deems, Furlani, Knuth, \& Towns}]{10.1145/3569951.3597559}
+Boerner, T.~J., Deems, S., Furlani, T.~R., Knuth, S.~L., \& Towns, J. 2023, \bibinfo{title}{ACCESS: Advancing Innovation: NSF’s Advanced Cyberinfrastructure Coordination Ecosystem: Services \& Support,} in Practice and Experience in Advanced Research Computing 2023: Computing for the Common Good, PEARC '23 (New York, NY, USA: Association for Computing Machinery), 173–176, \dodoi{10.1145/3569951.3597559}
+
+% type= article
+\bibitem[{A.~E. Broderick {et~al.}(2009)Broderick, Fish, Doeleman, \& Loeb}]{Broderick_2009}
+Broderick, A.~E., Fish, V.~L., Doeleman, S.~S., \& Loeb, A. 2009, \bibinfo{title}{ESTIMATING THE PARAMETERS OF SAGITTARIUS A*'s ACCRETION FLOW VIA MILLIMETER VLBI,} The Astrophysical Journal, 697, 45, \dodoi{10.1088/0004-637X/697/1/45}
+
+% type= article
+\bibitem[{A.~E. Broderick {et~al.}(2011)Broderick, Fish, Doeleman, \& Loeb}]{Broderick_2011}
+Broderick, A.~E., Fish, V.~L., Doeleman, S.~S., \& Loeb, A. 2011, \bibinfo{title}{EVIDENCE FOR LOW BLACK HOLE SPIN AND PHYSICALLY MOTIVATED ACCRETION MODELS FROM MILLIMETER-VLBI OBSERVATIONS OF SAGITTARIUS A*,} The Astrophysical Journal, 735, 110, \dodoi{10.1088/0004-637X/735/2/110}
+
+% type= article
+\bibitem[{A.~E. Broderick {et~al.}(2016)Broderick, Fish, Johnson, Rosenfeld, Wang, Doeleman, Akiyama, Johannsen, \& Roy}]{Broderick_2016}
+Broderick, A.~E., Fish, V.~L., Johnson, M.~D., {et~al.} 2016, \bibinfo{title}{MODELING SEVEN YEARS OF EVENT HORIZON TELESCOPE OBSERVATIONS WITH RADIATIVELY INEFFICIENT ACCRETION FLOW MODELS,} The Astrophysical Journal, 820, 137, \dodoi{10.3847/0004-637X/820/2/137}
+
+% type= article
+\bibitem[{A. Chael {et~al.}(2023)Chael, Lupsasca, Wong, \& Quataert}]{Chael_2023}
+Chael, A., Lupsasca, A., Wong, G.~N., \& Quataert, E. 2023, \bibinfo{title}{Black Hole Polarimetry I. A Signature of Electromagnetic Energy Extraction,} The Astrophysical Journal, 958, 65, \dodoi{10.3847/1538-4357/acf92d}
+
+% type= article
+\bibitem[{H.-S. Chan \& C.-k. Chan(2025)Chan \& Chan}]{Chan:2024bjg}
+Chan, H.-S., \& Chan, C.-k. 2025, \bibinfo{title}{{The 230 GHz Variability of Numerical Models of Sagittarius A*. II. The Physical Origins of the Variability},} Astrophys. J., 985, 164, \dodoi{10.3847/1538-4357/adc99f}
+
+% type= article
+\bibitem[{D.~O. Chang {et~al.}(2024)Chang, Johnson, Tiede, \& Palumbo}]{Chang2024}
+Chang, D.~O., Johnson, M.~D., Tiede, P., \& Palumbo, D. C.~M. 2024, \bibinfo{title}{Bayesian Black Hole Photogrammetry,} \url{http://arxiv.org/abs/2405.04749}
+
+% type= article
+\bibitem[{C.~T. {Cunningham} \& J.~M. {Bardeen}(1973){Cunningham} \& {Bardeen}}]{Bardeen_Cunnigham_1973}
+{Cunningham}, C.~T., \& {Bardeen}, J.~M. 1973, \bibinfo{title}{{The Optical Appearance of a Star Orbiting an Extreme Kerr Black Hole},} \apj, 183, 237, \dodoi{10.1086/152223}
+
+% type= article
+\bibitem[{A. {de Vries}(2000){de Vries}}]{2000CQGra..17..123D}
+{de Vries}, A. 2000, \bibinfo{title}{{The apparent shape of a rotating charged black hole, closed photon orbits and the bifurcation set A$_{4}$},} Classical and Quantum Gravity, 17, 123, \dodoi{10.1088/0264-9381/17/1/309}
+
+% type= article
+\bibitem[{J. Dexter \& E. Agol(2009)Dexter \& Agol}]{Dexter_2009}
+Dexter, J., \& Agol, E. 2009, \bibinfo{title}{A FAST NEW PUBLIC CODE FOR COMPUTING PHOTON ORBITS IN A KERR SPACETIME,} The Astrophysical Journal, 696, 1616, \dodoi{10.1088/0004-637X/696/2/1616}
+
+% type= article
+\bibitem[{T. {Do} {et~al.}(2019){Do}, {Hees}, {Ghez}, {Martinez}, {Chu}, {Jia}, {Sakai}, {Lu}, {Gautam}, {O'Neil}, {Becklin}, {Morris}, {Matthews}, {Nishiyama}, {Campbell}, {Chappell}, {Chen}, {Ciurlo}, {Dehghanfar}, {Gallego-Cano}, {Kerzendorf}, {Lyke}, {Naoz}, {Saida}, {Sch{\"o}del}, {Takahashi}, {Takamori}, {Witzel}, \& {Wizinowich}}]{2019Sci...365..664D}
+{Do}, T., {Hees}, A., {Ghez}, A., {et~al.} 2019, \bibinfo{title}{{Relativistic redshift of the star S0-2 orbiting the Galactic Center supermassive black hole},} Science, 365, 664, \dodoi{10.1126/science.aav8137}
+
+% type= article
+\bibitem[{S.~S. {Doeleman} {et~al.}(2023){Doeleman}, {Barrett}, {Blackburn}, {Bouman}, {Broderick}, {Chaves}, {Fish}, {Fitzpatrick}, {Freeman}, {Fuentes}, {G{\'o}mez}, {Haworth}, {Houston}, {Issaoun}, {Johnson}, {Kettenis}, {Loinard}, {Nagar}, {Narayanan}, {Oppenheimer}, {Palumbo}, {Patel}, {Pesce}, {Raymond}, {Roelofs}, {Srinivasan}, {Tiede}, {Weintroub}, \& {Wielgus}}]{Doeleman_2023}
+{Doeleman}, S.~S., {Barrett}, J., {Blackburn}, L., {et~al.} 2023, \bibinfo{title}{{Reference Array and Design Consideration for the Next-Generation Event Horizon Telescope},} Galaxies, 11, 107, \dodoi{10.3390/galaxies11050107}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration}(2024){Event Horizon Telescope Collaboration}}]{EHT_Mid-Range}
+{Event Horizon Telescope Collaboration}. 2024, \bibinfo{title}{{Mid-Range Science Objectives for the Event Horizon Telescope},} arXiv e-prints, arXiv:2410.02986, \dodoi{10.48550/arXiv.2410.02986}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2019{\natexlab{a}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Asada}, {Azulay}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Bintley}, {Blackburn}, {Boland}, {Bouman}, {Bower}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Byun}, {Carlstrom}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cho}, {Christian}, {Conway}, {Cordes}, {Crew}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Doeleman}, {Eatough}, {Falcke}, {Fish}, {Fomalont}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {G{\'o}mez}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {Gu}, {Gurwell}, {Hada}, {Hecht}, {Hesper}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Johnson}, {Jorstad}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim},
+  {Kim}, {Kim}, {Kino}, {Koay}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {Lauer}, {Lee}, {Li}, {Li}, {Lindqvist}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {MacDonald}, {Mao}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Neri}, {Ni}, {Noutsos}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n}, {Oyama}, {{\"O}zel}, {Palumbo}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {Prather}, {Preciado-L{\'o}pez}, {Psaltis}, {Pu}, {Ramakrishnan}, {Rao}, {Rawlings}, {Raymond}, {Rezzolla}, {Ripperda}, {Roelofs}, {Rogers}, {Ros}, {Rose}, {Roshanineshat}, {Rottmann}, {Roy}, {Ruszczyk}, {Ryan}, {Rygl}, {S{\'a}nchez}, {S{\'a}nchez-Arguelles}, {Sasada}, {Savolainen}, {Schloerb}, {Schuster}, {Shao}, {Shen}, {Small}, {Sohn}, {SooHoo}, {Tazaki}, {Tiede}, {Tilanus}, {Titus}, {Toma},
+  {Torne}, {Trent}, {Trippe}, {Tsuda}, {van Bemmel}, {van Langevelde}, {van Rossum}, {Wagner}, {Wardle}, {Weintroub}, {Wex}, {Wharton}, {Wielgus}, {Wong}, {Wu}, {Young}, \& {Young}}]{EHT2019-I}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2019{\natexlab{a}}, \bibinfo{title}{{First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole},} \apjl, 875, L1, \dodoi{10.3847/2041-8213/ab0ec7}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2019{\natexlab{b}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Asada}, {Azulay}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Bintley}, {Blackburn}, {Boland}, {Bouman}, {Bower}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Byun}, {Carlstrom}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cho}, {Christian}, {Conway}, {Cordes}, {Crew}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Doeleman}, {Eatough}, {Falcke}, {Fish}, {Fomalont}, {Fraga-Encinas}, {Friberg}, {Fromm}, {G{\'o}mez}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {Gu}, {Gurwell}, {Hada}, {Hecht}, {Hesper}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Johnson}, {Jorstad}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim},
+  {Kino}, {Koay}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {Lauer}, {Lee}, {Li}, {Li}, {Lindqvist}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {MacDonald}, {Mao}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {Mul{\ensuremath{\ddot{}}}ler}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Neri}, {Ni}, {Noutsos}, {Okino}, {Olivares}, {Oyama}, {{\"O}zel}, {Palumbo}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {Prather}, {Preciado-L{\'o}pez}, {Psaltis}, {Pu}, {Ramakrishnan}, {Rao}, {Rawlings}, {Raymond}, {Rezzolla}, {Ripperda}, {Roelofs}, {Rogers}, {Ros}, {Rose}, {Roshanineshat}, {Rottmann}, {Roy}, {Ruszczyk}, {Ryan}, {Rygl}, {S{\'a}nchez}, {S{\'a}nchez-Arguelles}, {Sasada}, {Savolainen}, {Schloerb}, {Schuster}, {Shao}, {Shen}, {Small}, {Sohn}, {SooHoo}, {Tazaki}, {Tiede}, {Tilanus}, {Titus}, {Toma}, {Torne},
+  {Trent}, {Trippe}, {Tsuda}, {van Bemmel}, {van Langevelde}, {van Rossum}, {Wagner}, {Wardle}, {Weintroub}, {Wex}, {Wharton}, {Wielgus}, {Wong}, {Wu}, {Young}, {Young}, {Younsi}, \& {Yuan}}]{EHT2019-V}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2019{\natexlab{b}}, \bibinfo{title}{{First M87 Event Horizon Telescope Results. V. Physical Origin of the Asymmetric Ring},} \apjl, 875, L5, \dodoi{10.3847/2041-8213/ab0f43}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2019{\natexlab{c}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Asada}, {Azulay}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Bintley}, {Blackburn}, {Boland}, {Bouman}, {Bower}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Byun}, {Carlstrom}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cho}, {Christian}, {Conway}, {Cordes}, {Crew}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Doeleman}, {Eatough}, {Falcke}, {Fish}, {Fomalont}, {Fraga-Encinas}, {Friberg}, {Fromm}, {G{\'o}mez}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {Gu}, {Gurwell}, {Hada}, {Hecht}, {Hesper}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Johnson}, {Jorstad}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim},
+  {Kino}, {Koay}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {Lauer}, {Lee}, {Li}, {Li}, {Lindqvist}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {MacDonald}, {Mao}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Neri}, {Ni}, {Noutsos}, {Okino}, {Olivares}, {Oyama}, {{\"O}zel}, {Palumbo}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {Prather}, {Preciado-L{\'o}pez}, {Psaltis}, {Pu}, {Ramakrishnan}, {Rao}, {Rawlings}, {Raymond}, {Rezzolla}, {Ripperda}, {Roelofs}, {Rogers}, {Ros}, {Rose}, {Roshanineshat}, {Rottmann}, {Roy}, {Ruszczyk}, {Ryan}, {Rygl}, {S{\'a}nchez}, {S{\'a}nchez-Arguelles}, {Sasada}, {Savolainen}, {Schloerb}, {Schuster}, {Shao}, {Shen}, {Small}, {Sohn}, {SooHoo}, {Tazaki}, {Tiede}, {Tilanus}, {Titus}, {Toma}, {Torne}, {Trent}, {Trippe},
+  {Tsuda}, {van Bemmel}, {van Langevelde}, {van Rossum}, {Wagner}, {Wardle}, {Weintroub}, {Wex}, {Wharton}, {Wielgus}, {Wong}, {Wu}, {Young}, {Young}, {Younsi}, \& {Yuan}}]{EHT2019-VI}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2019{\natexlab{c}}, \bibinfo{title}{{First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole},} \apjl, 875, L6, \dodoi{10.3847/2041-8213/ab1141}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2019{\natexlab{d}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Asada}, {Azulay}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Bintley}, {Blackburn}, {Boland}, {Bouman}, {Bower}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Byun}, {Carlstrom}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cho}, {Christian}, {Conway}, {Cordes}, {Crew}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Doeleman}, {Eatough}, {Falcke}, {Fish}, {Fomalont}, {Fraga-Encinas}, {Friberg}, {Fromm}, {G{\'o}mez}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {Gu}, {Gurwell}, {Hada}, {Hecht}, {Hesper}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Johnson}, {Jorstad}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim},
+  {Kino}, {Koay}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {Lauer}, {Lee}, {Li}, {Li}, {Lindqvist}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {MacDonald}, {Mao}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Neri}, {Ni}, {Noutsos}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n}, {Oyama}, {{\"O}zel}, {Palumbo}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {Prather}, {Preciado-L{\'o}pez}, {Psaltis}, {Pu}, {Ramakrishnan}, {Rao}, {Rawlings}, {Raymond}, {Rezzolla}, {Ripperda}, {Roelofs}, {Rogers}, {Ros}, {Rose}, {Roshanineshat}, {Rottmann}, {Roy}, {Ruszczyk}, {Ryan}, {Rygl}, {S{\'a}nchez}, {S{\'a}nchez-Arguelles}, {Sasada}, {Savolainen}, {Schloerb}, {Schuster}, {Shao}, {Shen}, {Small}, {Sohn}, {SooHoo}, {Tazaki}, {Tiede}, {Tilanus}, {Titus}, {Toma}, {Torne},
+  {Trent}, {Trippe}, {Tsuda}, {van Bemmel}, {van Langevelde}, {van Rossum}, {Wagner}, {Wardle}, {Weintroub}, {Wex}, {Wharton}, {Wielgus}, {Wong}, {Wu}, {Young}, {Young}, \& {Younsi}}]{EHT2019-III}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2019{\natexlab{d}}, \bibinfo{title}{{First M87 Event Horizon Telescope Results. III. Data Processing and Calibration},} \apjl, 875, L3, \dodoi{10.3847/2041-8213/ab0c57}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2022{\natexlab{a}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blackburn}, {Blundell}, {Bouman}, {Bower}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cheng}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Dhruv}, {Doeleman}, {Dougal}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Fomalont}, {Ford}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Gurwell}, {Hada}, {Haggard}, {Haworth},
+  {Hecht}, {Hesper}, {Heumann}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Impellizzeri}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Johnson}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Marchili}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Mus}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Fuentes}, {Neilsen}, {Neri}, {Ni}, {Noutsos}, {Nowak}, {Oh}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n},
+  {Oyama}, {{\"O}zel}, {Palumbo}, {Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {P{\"o}tzl}, {Prather}, {Preciado-L{\'o}pez}, \& {Psaltis}}]{EHT2022-I}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2022{\natexlab{a}}, \bibinfo{title}{{First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way},} The Astrophysical Journal Letters, 930, L12, \dodoi{10.3847/2041-8213/ac6674}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2022{\natexlab{b}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blackburn}, {Blundell}, {Bouman}, {Bower}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cheng}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Dhruv}, {Doeleman}, {Dougal}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Fomalont}, {Ford}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Gurwell}, {Hada}, {Haggard}, {Haworth},
+  {Hecht}, {Hesper}, {Heumann}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Impellizzeri}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Johnson}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Marchili}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Mus}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Fuentes}, {Neilsen}, {Neri}, {Ni}, {Noutsos}, {Nowak}, {Oh}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n},
+  {Oyama}, {{\"O}zel}, {Palumbo}, {Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {P{\"o}tzl}, {Prather}, {Preciado-L{\'o}pez}, \& {Psaltis}}]{EHT2022-II}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2022{\natexlab{b}}, \bibinfo{title}{{First Sagittarius A* Event Horizon Telescope Results. II. EHT and Multiwavelength Observations, Data Processing, and Calibration},} \apjl, 930, L13, \dodoi{10.3847/2041-8213/ac6675}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2022{\natexlab{c}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blackburn}, {Blundell}, {Bouman}, {Bower}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cheng}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Dhruv}, {Doeleman}, {Dougal}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Fomalont}, {Ford}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Gurwell}, {Hada}, {Haggard}, {Haworth},
+  {Hecht}, {Hesper}, {Heumann}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Impellizzeri}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Johnson}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Marchili}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Mus}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Fuentes}, {Neilsen}, {Neri}, {Ni}, {Noutsos}, {Nowak}, {Oh}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n},
+  {Oyama}, {{\"O}zel}, {Palumbo}, {Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {P{\"o}tzl}, {Prather}, {Preciado-L{\'o}pez}, \& {Psaltis}}]{EHT2022-III}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2022{\natexlab{c}}, \bibinfo{title}{{First Sagittarius A* Event Horizon Telescope Results. III. Imaging of the Galactic Center Supermassive Black Hole},} \apjl, 930, L14, \dodoi{10.3847/2041-8213/ac6429}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2022{\natexlab{d}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blackburn}, {Blundell}, {Bouman}, {Bower}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cheng}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Dhruv}, {Doeleman}, {Dougal}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Fomalont}, {Ford}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Gurwell}, {Hada}, {Haggard}, {Haworth},
+  {Hecht}, {Hesper}, {Heumann}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Impellizzeri}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Johnson}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Marchili}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Mus}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Fuentes}, {Neilsen}, {Neri}, {Ni}, {Noutsos}, {Nowak}, {Oh}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n},
+  {Oyama}, {Palumbo}, {Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {P{\"o}tzl}, {Prather}, {Preciado-L{\'o}pez}, {Pu}, \& {Ramakrishnan}}]{EHT2022-IV}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2022{\natexlab{d}}, \bibinfo{title}{{First Sagittarius A* Event Horizon Telescope Results. IV. Variability, Morphology, and Black Hole Mass},} \apjl, 930, L15, \dodoi{10.3847/2041-8213/ac6736}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2022{\natexlab{e}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blackburn}, {Blundell}, {Bouman}, {Bower}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cheng}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Dhruv}, {Doeleman}, {Dougal}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Fomalont}, {Ford}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Gurwell}, {Hada}, {Haggard}, {Haworth},
+  {Hecht}, {Hesper}, {Heumann}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Violette Impellizzeri}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Johnson}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Marchili}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Mus}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Navarro Fuentes}, {Neilsen}, {Neri}, {Ni}, {Noutsos}, {Nowak}, {Oh}, {Okino}, {Olivares},
+  {Ortiz-Le{\'o}n}, {Oyama}, {{\"O}zel}, {Palumbo}, {Filippos Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {P{\"o}tzl}, {Prather}, {Preciado-L{\'o}pez}, \& {Psaltis}}]{EHT2022-V}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2022{\natexlab{e}}, \bibinfo{title}{{First Sagittarius A* Event Horizon Telescope Results. V. Testing Astrophysical Models of the Galactic Center Black Hole},} \apjl, 930, L16, \dodoi{10.3847/2041-8213/ac6672}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2022{\natexlab{f}}){Event Horizon Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blackburn}, {Blundell}, {Bouman}, {Bower}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chan}, {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cheng}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dexter}, {Dhruv}, {Doeleman}, {Dougal}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Fomalont}, {Ford}, {Fraga-Encinas}, {Freeman}, {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Gammie}, {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Gurwell}, {Hada}, {Haggard}, {Haworth},
+  {Hecht}, {Hesper}, {Heumann}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Impellizzeri}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Johnson}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Marchili}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Mus}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Fuentes}, {Neilsen}, {Neri}, {Ni}, {Noutsos}, {Nowak}, {Oh}, {Okino}, {Olivares}, {Ortiz-Le{\'o}n},
+  {Oyama}, {{\"O}zel}, {Palumbo}, {Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {P{\"o}tzl}, {Prather}, {Preciado-L{\'o}pez}, \& {Psaltis}}]{EHT2022-VI}
+{Event Horizon Telescope Collaboration}, {Akiyama}, K., {Alberdi}, A., {et~al.} 2022{\natexlab{f}}, \bibinfo{title}{{First Sagittarius A* Event Horizon Telescope Results. VI. Testing the Black Hole Metric},} \apjl, 930, L17, \dodoi{10.3847/2041-8213/ac6756}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2024{\natexlab{a}}){Event Horizon Telescope Collaboration}, Akiyama, Alberdi, Alef, Algaba, Anantua, Asada, Azulay, Bach, Baczko, Ball, Balokovic, Bandyopadhyay, Barrett, Bauböck, Benson, Bintley, Blackburn, Blundell, Bouman, Bower, Boyce, Bremer, Brinkerink, Brissenden, Britzen, Broderick, Broguiere, Bronzwaer, Bustamante, Byun, Carlstrom, Ceccobello, Chael, Chan, Chang, Chatterjee, Chatterjee, Chen, Chen, Cheng, Cho, Christian, Conroy, Conway, Cordes, Crawford, Crew, Cruz-Osorio, Cui, Dahale, Davelaar, De~Laurentis, Deane, Dempsey, Desvignes, Dexter, Dhruv, Dihingia, Doeleman, Dougal, Dzib, Eatough, Emami, Falcke, Farah, Fish, Fomalont, Ford, Foschi, Fraga-Encinas, Freeman, Friberg, Fromm, Fuentes, Galison, Gammie, García, Gentaz, Georgiev, Goddi, Gold, Gómez-Ruiz, Gómez, Gu, Gurwell, Hada, Haggard, Haworth, Hecht, Hesper, Heumann, Ho, Ho, Honma, Huang, Huang, Hughes, Ikeda, Impellizzeri, Inoue, Issaoun, James, Jannuzi, Janssen, Jeter, Jiang,
+  Jiménez-Rosales, Johnson, Jorstad, Joshi, Jung, Karami, Karuppusamy, Kawashima, Keating, Kettenis, Kim, Kim, Kim, Kim, Kino, Koay, Kocherlakota, Kofuji, Koch, Koyama, Kramer, Kramer, Kramer, Krichbaum, Kuo, La~Bella, Lauer, Lee, Lee, Leung, Levis, Li, Lico, Lindahl, Lindqvist, Lisakov, Liu, Liu, Liuzzo, Lo, Lobanov, Loinard, Lonsdale, Lowitz, Lu, MacDonald, Mao, Marchili, Markoff, Marrone, Marscher, Martí-Vidal, Matsushita, Matthews, Medeiros, Menten, Michalik, Mizuno, Mizuno, Moran, Moriyama, Moscibrodzka, Mulaudzi, Müller, Müller, Mus, Musoke, Myserlis, Nadolski, Nagai, Nagar, Nakamura, Narayanan, Natarajan, Nathanail, Navarro~Fuentes, Neilsen, Neri, Ni, Noutsos, Nowak, Oh, Okino, Olivares, Ortiz-León, Oyama, Özel, Palumbo, Paraschos, Park, Parsons, Patel, Pen, Pesce, Piétu, Plambeck, PopStefanija, Porth, Pötzl, Prather, Preciado-López, Psaltis, Pu, Ramakrishnan, Rao, Rawlings, Raymond, Rezzolla, Ricarte, Ripperda, Roelofs, Rogers, Romero-Cañizales, Ros, Roshanineshat, Rottmann, Roy, Ruiz,
+  Ruszczyk, Rygl, Sánchez, Sánchez-Argüelles, Sánchez-Portal, Sasada, Satapathy, Savolainen, Schloerb, Schonfeld, Schuster, Shao, Shen, Small, Sohn, SooHoo, Sosapanta~Salas, Souccar, Stanway, Sun, Tazaki, Tetarenko, Tiede, Tilanus, Titus, Torne, Toscano, Traianou, Trent, Trippe, Turk, van Bemmel, van Langevelde, van Rossum, Vos, Wagner, Ward-Thompson, Wardle, Washington, Weintroub, Wharton, Wielgus, Wiik, Witzel, Wondrak, Wong, Wu, Yadlapalli, Yamaguchi, Yfantis, Yoon, Young, Young, Younsi, Yu, Yuan, Yuan, Zensus, Zhang, Zhao, \& Zhao}]{EHT2024-VII}
+{Event Horizon Telescope Collaboration}, Akiyama, K., Alberdi, A., {et~al.} 2024{\natexlab{a}}, \bibinfo{title}{First Sagittarius A* Event Horizon Telescope Results. VII. Polarization of the Ring,} The Astrophysical Journal Letters, 964, L25, \dodoi{10.3847/2041-8213/ad2df0}
+
+% type= article
+\bibitem[{ {Event Horizon Telescope Collaboration} {et~al.}(2024{\natexlab{b}}){Event Horizon Telescope Collaboration}, Akiyama, Alberdi, Alef, Algaba, Anantua, Asada, Azulay, Bach, Baczko, Ball, Baloković, Bandyopadhyay, Barrett, Bauböck, Benson, Bintley, Blackburn, Blundell, Bouman, Bower, Boyce, Bremer, Brinkerink, Brissenden, Britzen, Broderick, Broguiere, Bronzwaer, Bustamante, Byun, Carlstrom, Ceccobello, Chael, Chan, Chang, Chatterjee, Chatterjee, Chen, Chen, Cheng, Cho, Christian, Conroy, Conway, Cordes, Crawford, Crew, Cruz-Osorio, Cui, Dahale, Davelaar, De~Laurentis, Deane, Dempsey, Desvignes, Dexter, Dhruv, Dihingia, Doeleman, Dougall, Dzib, Eatough, Emami, Falcke, Farah, Fish, Fomalont, Ford, Foschi, Fraga-Encinas, Freeman, Friberg, Fromm, Fuentes, Galison, Gammie, García, Gentaz, Georgiev, Goddi, Gold, Gómez-Ruiz, Gómez, Gu, Gurwell, Hada, Haggard, Haworth, Hecht, Hesper, Heumann, Ho, Ho, Honma, Huang, Huang, Hughes, Ikeda, Impellizzeri, Inoue, Issaoun, James, Jannuzi, Janssen, Jeter, Jiang,
+  Jiménez-Rosales, Johnson, Jorstad, Joshi, Jung, Karami, Karuppusamy, Kawashima, Keating, Kettenis, Kim, Kim, Kim, Kim, Kino, Koay, Kocherlakota, Kofuji, Koch, Koyama, Kramer, Kramer, Kramer, Krichbaum, Kuo, La~Bella, Lauer, Lee, Lee, Leung, Levis, Li, Lico, Lindahl, Lindqvist, Lisakov, Liu, Liu, Liuzzo, Lo, Lobanov, Loinard, Lonsdale, Lowitz, Lu, MacDonald, Mao, Marchili, Markoff, Marrone, Marscher, Martí-Vidal, Matsushita, Matthews, Medeiros, Menten, Michalik, Mizuno, Mizuno, Moran, Moriyama, Moscibrodzka, Mulaudzi, Müller, Müller, Mus, Musoke, Myserlis, Nadolski, Nagai, Nagar, Nakamura, Narayanan, Natarajan, Nathanail, Navarro~Fuentes, Neilsen, Neri, Ni, Noutsos, Nowak, Oh, Okino, Olivares, Ortiz-León, Oyama, Özel, Palumbo, Paraschos, Park, Parsons, Patel, Pen, Pesce, Piétu, Plambeck, PopStefanija, Porth, Pötzl, Prather, Preciado-López, Psaltis, Pu, Ramakrishnan, Rao, Rawlings, Raymond, Rezzolla, Ricarte, Ripperda, Roelofs, Rogers, Romero-Cañizales, Ros, Roshanineshat, Rottmann, Roy, Ruiz,
+  Ruszczyk, Rygl, Sánchez, Sánchez-Argüelles, Sánchez-Portal, Sasada, Satapathy, Savolainen, Schloerb, Schonfeld, Schuster, Shao, Shen, Small, Sohn, SooHoo, Sosapanta~Salas, Souccar, Stanway, Sun, Tazaki, Tetarenko, Tiede, Tilanus, Titus, Torne, Toscano, Traianou, Trent, Trippe, Turk, van Bemmel, van Langevelde, van Rossum, Vos, Wagner, Ward-Thompson, Wardle, Washington, Weintroub, Wharton, Wielgus, Wiik, Witzel, Wondrak, Wong, Wu, Yadlapalli, Yamaguchi, Yfantis, Yoon, Young, Young, Younsi, Yu, Yuan, Yuan, Zensus, Zhang, Zhao, Zhao, \& Najafi-Ziyazi}]{EHT2024-VIII}
+{Event Horizon Telescope Collaboration}, Akiyama, K., Alberdi, A., {et~al.} 2024{\natexlab{b}}, \bibinfo{title}{First Sagittarius A* Event Horizon Telescope Results. VIII. Physical Interpretation of the Polarized Ring,} The Astrophysical Journal Letters, 964, L26, \dodoi{10.3847/2041-8213/ad2df1}
+
+% type= article
+\bibitem[{H. {Falcke} {et~al.}(2000){Falcke}, {Melia}, \& {Agol}}]{2000ApJ...528L..13F}
+{Falcke}, H., {Melia}, F., \& {Agol}, E. 2000, \bibinfo{title}{{Viewing the Shadow of the Black Hole at the Galactic Center},} \apjl, 528, L13, \dodoi{10.1086/312423}
+
+% type= article
+\bibitem[{J.~R. {Farah} {et~al.}(2025){Farah}, {Lupsasca}, {Quataert}, \& {Johnson}}]{Farah_2025}
+{Farah}, J.~R., {Lupsasca}, A., {Quataert}, E., \& {Johnson}, M.~D. 2025, \bibinfo{title}{{Interferometric inference of black hole spin from photon ring size and brightness},} arXiv e-prints, arXiv:2509.23628, \dodoi{10.48550/arXiv.2509.23628}
+
+% type= article
+\bibitem[{A. Galishnikova {et~al.}(2023)Galishnikova, Philippov, \& Quataert}]{Galishnikova_2023}
+Galishnikova, A., Philippov, A., \& Quataert, E. 2023, \bibinfo{title}{Polarized Anisotropic Synchrotron Emission and Absorption and Its Application to Black Hole Imaging,} The Astrophysical Journal, 957, 103, \dodoi{10.3847/1538-4357/acfa77}
+
+% type= article
+\bibitem[{S.~E. Gralla(2020)Gralla}]{PhysRevD.102.044017}
+Gralla, S.~E. 2020, \bibinfo{title}{Measuring the shape of a black hole photon ring,} Phys. Rev. D, 102, 044017, \dodoi{10.1103/PhysRevD.102.044017}
+
+% type= article
+\bibitem[{S.~E. {Gralla} {et~al.}(2019){Gralla}, {Holz}, \& {Wald}}]{2019PhRvD.100b4018G}
+{Gralla}, S.~E., {Holz}, D.~E., \& {Wald}, R.~M. 2019, \bibinfo{title}{{Black hole shadows, photon rings, and lensing rings},} \prd, 100, 024018, \dodoi{10.1103/PhysRevD.100.024018}
+
+% type= article
+\bibitem[{ {GRAVITY Collaboration} {et~al.}(2018){GRAVITY Collaboration}, {Abuter}, {Amorim}, {Anugu}, {Baub{\"o}ck}, {Benisty}, {Berger}, {Blind}, {Bonnet}, {Brandner}, {Buron}, {Collin}, {Chapron}, {Cl{\'e}net}, {Coud{\'e} Du Foresto}, {de Zeeuw}, {Deen}, {Delplancke-Str{\"o}bele}, {Dembet}, {Dexter}, {Duvert}, {Eckart}, {Eisenhauer}, {Finger}, {F{\"o}rster Schreiber}, {F{\'e}dou}, {Garcia}, {Garcia Lopez}, {Gao}, {Gendron}, {Genzel}, {Gillessen}, {Gordo}, {Habibi}, {Haubois}, {Haug}, {Hau{\ss}mann}, {Henning}, {Hippler}, {Horrobin}, {Hubert}, {Hubin}, {Jimenez Rosales}, {Jochum}, {Jocou}, {Kaufer}, {Kellner}, {Kendrew}, {Kervella}, {Kok}, {Kulas}, {Lacour}, {Lapeyr{\`e}re}, {Lazareff}, {Le Bouquin}, {L{\'e}na}, {Lippa}, {Lenzen}, {M{\'e}rand}, {M{\"u}ler}, {Neumann}, {Ott}, {Palanca}, {Paumard}, {Pasquini}, {Perraut}, {Perrin}, {Pfuhl}, {Plewa}, {Rabien}, {Ram{\'\i}rez}, {Ramos}, {Rau}, {Rodr{\'\i}guez-Coira}, {Rohloff}, {Rousset}, {Sanchez-Bermudez}, {Scheithauer}, {Sch{\"o}ller}, {Schuler}, {Spyromilio},
+  {Straub}, {Straubmeier}, {Sturm}, {Tacconi}, {Tristram}, {Vincent}, {von Fellenberg}, {Wank}, {Waisberg}, {Widmann}, {Wieprecht}, {Wiest}, {Wiezorrek}, {Woillez}, {Yazici}, {Ziegler}, \& {Zins}}]{2018A&A...615L..15G}
+{GRAVITY Collaboration}, {Abuter}, R., {Amorim}, A., {et~al.} 2018, \bibinfo{title}{{Detection of the gravitational redshift in the orbit of the star S2 near the Galactic centre massive black hole},} \aap, 615, L15, \dodoi{10.1051/0004-6361/201833718}
+
+% type= article
+\bibitem[{ {GRAVITY Collaboration} {et~al.}(2019){GRAVITY Collaboration}, {Abuter}, {Amorim}, {Baub{\"o}ck}, {Berger}, {Bonnet}, {Brandner}, {Cl{\'e}net}, {Coud{\'e} Du Foresto}, {de Zeeuw}, {Dexter}, {Duvert}, {Eckart}, {Eisenhauer}, {F{\"o}rster Schreiber}, {Garcia}, {Gao}, {Gendron}, {Genzel}, {Gerhard}, {Gillessen}, {Habibi}, {Haubois}, {Henning}, {Hippler}, {Horrobin}, {Jim{\'e}nez-Rosales}, {Jocou}, {Kervella}, {Lacour}, {Lapeyr{\`e}re}, {Le Bouquin}, {L{\'e}na}, {Ott}, {Paumard}, {Perraut}, {Perrin}, {Pfuhl}, {Rabien}, {Rodriguez Coira}, {Rousset}, {Scheithauer}, {Sternberg}, {Straub}, {Straubmeier}, {Sturm}, {Tacconi}, {Vincent}, {von Fellenberg}, {Waisberg}, {Widmann}, {Wieprecht}, {Wiezorrek}, {Woillez}, \& {Yazici}}]{2019A&A...625L..10G}
+{GRAVITY Collaboration}, {Abuter}, R., {Amorim}, A., {et~al.} 2019, \bibinfo{title}{{A geometric distance measurement to the Galactic center black hole with 0.3\% uncertainty},} \aap, 625, L10, \dodoi{10.1051/0004-6361/201935656}
+
+% type= article
+\bibitem[{ {GRAVITY Collaboration} {et~al.}(2020){GRAVITY Collaboration}, {Abuter}, {Amorim}, {Baub{\"o}ck}, {Berger}, {Bonnet}, {Brandner}, {Cardoso}, {Cl{\'e}net}, {de Zeeuw}, {Dexter}, {Eckart}, {Eisenhauer}, {F{\"o}rster Schreiber}, {Garcia}, {Gao}, {Gendron}, {Genzel}, {Gillessen}, {Habibi}, {Haubois}, {Henning}, {Hippler}, {Horrobin}, {Jim{\'e}nez-Rosales}, {Jochum}, {Jocou}, {Kaufer}, {Kervella}, {Lacour}, {Lapeyr{\`e}re}, {Le Bouquin}, {L{\'e}na}, {Nowak}, {Ott}, {Paumard}, {Perraut}, {Perrin}, {Pfuhl}, {Rodr{\'\i}guez-Coira}, {Shangguan}, {Scheithauer}, {Stadler}, {Straub}, {Straubmeier}, {Sturm}, {Tacconi}, {Vincent}, {von Fellenberg}, {Waisberg}, {Widmann}, {Wieprecht}, {Wiezorrek}, {Woillez}, {Yazici}, \& {Zins}}]{2020A&A...636L...5G}
+{GRAVITY Collaboration}, {Abuter}, R., {Amorim}, A., {et~al.} 2020, \bibinfo{title}{{Detection of the Schwarzschild precession in the orbit of the star S2 near the Galactic centre massive black hole},} \aap, 636, L5, \dodoi{10.1051/0004-6361/202037813}
+
+% type= article
+\bibitem[{S. {Issaoun} {et~al.}(2019){Issaoun}, {Johnson}, {Blackburn}, {Brinkerink}, {Mo{\'s}cibrodzka}, {Chael}, {Goddi}, {Mart{\'\i}-Vidal}, {Wagner}, {Doeleman}, {Falcke}, {Krichbaum}, {Akiyama}, {Bach}, {Bouman}, {Bower}, {Broderick}, {Cho}, {Crew}, {Dexter}, {Fish}, {Gold}, {G{\'o}mez}, {Hada}, {Hern{\'a}ndez-G{\'o}mez}, {Jan{\ss}en}, {Kino}, {Kramer}, {Loinard}, {Lu}, {Markoff}, {Marrone}, {Matthews}, {Moran}, {M{\"u}ller}, {Roelofs}, {Ros}, {Rottmann}, {Sanchez}, {Tilanus}, {de Vicente}, {Wielgus}, {Zensus}, \& {Zhao}}]{2019ApJ...871...30I}
+{Issaoun}, S., {Johnson}, M.~D., {Blackburn}, L., {et~al.} 2019, \bibinfo{title}{{The Size, Shape, and Scattering of Sagittarius A* at 86 GHz: First VLBI with ALMA},} \apj, 871, 30, \dodoi{10.3847/1538-4357/aaf732}
+
+% type= article
+\bibitem[{M.~D. {Johnson} {et~al.}(2018){Johnson}, {Narayan}, {Psaltis}, {Blackburn}, {Kovalev}, {Gwinn}, {Zhao}, {Bower}, {Moran}, {Kino}, {Kramer}, {Akiyama}, {Dexter}, {Broderick}, \& {Sironi}}]{2018ApJ...865..104J}
+{Johnson}, M.~D., {Narayan}, R., {Psaltis}, D., {et~al.} 2018, \bibinfo{title}{{The Scattering and Intrinsic Structure of Sagittarius A* at Radio Wavelengths},} \apj, 865, 104, \dodoi{10.3847/1538-4357/aadcff}
+
+% type= article
+\bibitem[{M.~D. {Johnson} {et~al.}(2020){Johnson}, {Lupsasca}, {Strominger}, {Wong}, {Hadar}, {Kapec}, {Narayan}, {Chael}, {Gammie}, {Galison}, {Palumbo}, {Doeleman}, {Blackburn}, {Wielgus}, {Pesce}, {Farah}, \& {Moran}}]{Johnson2020}
+{Johnson}, M.~D., {Lupsasca}, A., {Strominger}, A., {et~al.} 2020, \bibinfo{title}{{Universal interferometric signatures of a black hole's photon ring},} Science Advances, 6, eaaz1310, \dodoi{10.1126/sciadv.aaz1310}
+
+% type= article
+\bibitem[{M.~D. {Johnson} {et~al.}(2023){Johnson}, {Akiyama}, {Blackburn}, {Bouman}, {Broderick}, {Cardoso}, {Fender}, {Fromm}, {Galison}, {G{\'o}mez}, {Haggard}, {Lister}, {Lobanov}, {Markoff}, {Narayan}, {Natarajan}, {Nichols}, {Pesce}, {Younsi}, {Chael}, {Chatterjee}, {Chaves}, {Doboszewski}, {Dodson}, {Doeleman}, {Elder}, {Fitzpatrick}, {Haworth}, {Houston}, {Issaoun}, {Kovalev}, {Levis}, {Lico}, {Marcoci}, {Martens}, {Nagar}, {Oppenheimer}, {Palumbo}, {Ricarte}, {Rioja}, {Roelofs}, {Thresher}, {Tiede}, {Weintroub}, \& {Wielgus}}]{ngEHT_Key_Science}
+{Johnson}, M.~D., {Akiyama}, K., {Blackburn}, L., {et~al.} 2023, \bibinfo{title}{{Key Science Goals for the Next-Generation Event Horizon Telescope},} Galaxies, 11, 61, \dodoi{10.3390/galaxies11030061}
+
+% type= inproceedings
+\bibitem[{M.~D. {Johnson} {et~al.}(2024){Johnson}, {Akiyama}, {Baturin}, {Bilyeu}, {Blackburn}, {Boroson}, {C{\'a}rdenas-Avenda{\~n}o}, {Chael}, {Chan}, {Chang}, {Cheimets}, {Chou}, {Doeleman}, {Farah}, {Galison}, {Gamble}, {Gammie}, {Gelles}, {G{\'o}mez}, {Gralla}, {Grimes}, {Gurvits}, {Hadar}, {Haworth}, {Hada}, {Hecht}, {Honma}, {Houston}, {Hudson}, {Issaoun}, {Jia}, {Jorstad}, {Kauffman}, {Kovalev}, {Kurczynski}, {Lafon}, {Lupsasca}, {Lehmensiek}, {Ma}, {Marrone}, {Marscher}, {Melnick}, {Narayan}, {Niinuma}, {Noble}, {Palmer}, {Palumbo}, {Paritsky}, {Peretz}, {Pesce}, {Plavin}, {Quataert}, {Rana}, {Ricarte}, {Roelofs}, {Shtyrkova}, {Sinclair}, {Small}, {Kumara}, {Srinivasan}, {Strominger}, {Tiede}, {Tong}, {Wang}, {Weintroub}, {Wielgus}, \& {Wong}}]{BHEX_Concept}
+{Johnson}, M.~D., {Akiyama}, K., {Baturin}, R., {et~al.} 2024, \bibinfo{title}{{The Black Hole Explorer: motivation and vision},} in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 13092, Space Telescopes and Instrumentation 2024: Optical, Infrared, and Millimeter Wave, ed. L.~E. {Coyle}, S.~{Matsuura}, \& M.~D. {Perrin}, 130922D, \dodoi{10.1117/12.3019835}
+
+% type= article
+\bibitem[{J.~P. {Luminet}(1979){Luminet}}]{1979A&A....75..228L}
+{Luminet}, J.~P. 1979, \bibinfo{title}{{Image of a spherical black hole with thin accretion disk.},} \aap, 75, 228
+
+% type= inproceedings
+\bibitem[{A. {Lupsasca} {et~al.}(2024){Lupsasca}, {C{\'a}rdenas-Avenda{\~n}o}, {Palumbo}, {Johnson}, {Gralla}, {Marrone}, {Galison}, {Tiede}, \& {Keeble}}]{BHEX_Photon_Ring}
+{Lupsasca}, A., {C{\'a}rdenas-Avenda{\~n}o}, A., {Palumbo}, D. C.~M., {et~al.} 2024, \bibinfo{title}{{The Black Hole Explorer: photon ring science, detection, and shape measurement},} in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 13092, Space Telescopes and Instrumentation 2024: Optical, Infrared, and Millimeter Wave, ed. L.~E. {Coyle}, S.~{Matsuura}, \& M.~D. {Perrin}, 130926Q, \dodoi{10.1117/12.3019437}
+
+% type= inproceedings
+\bibitem[{D.~P. {Marrone} {et~al.}(2024){Marrone}, {Houston}, {Akiyama}, {Bilyeu}, {Boroson}, {Grimes}, {Haworth}, {Lehmensiek}, {Peretz}, {Rana}, {Sinclair}, {Kumara}, {Srinivasan}, {Tong}, {Wang}, {Weintroub}, \& {Johnson}}]{BHEX_Instrument}
+{Marrone}, D.~P., {Houston}, J., {Akiyama}, K., {et~al.} 2024, \bibinfo{title}{{The Black Hole Explorer: instrument system overview},} in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 13092, Space Telescopes and Instrumentation 2024: Optical, Infrared, and Millimeter Wave, ed. L.~E. {Coyle}, S.~{Matsuura}, \& M.~D. {Perrin}, 130922G, \dodoi{10.1117/12.3019589}
+
+% type= article
+\bibitem[{M. {Mo{\'s}cibrodzka} {et~al.}(2016){Mo{\'s}cibrodzka}, {Falcke}, \& {Shiokawa}}]{2016A&A...586A..38M}
+{Mo{\'s}cibrodzka}, M., {Falcke}, H., \& {Shiokawa}, H. 2016, \bibinfo{title}{{General relativistic magnetohydrodynamical simulations of the jet in M 87},} \aap, 586, A38, \dodoi{10.1051/0004-6361/201526630}
+
+% type= article
+\bibitem[{M. {Mo{\'s}cibrodzka} \& C.~F. {Gammie}(2018){Mo{\'s}cibrodzka} \& {Gammie}}]{ipole}
+{Mo{\'s}cibrodzka}, M., \& {Gammie}, C.~F. 2018, \bibinfo{title}{{IPOLE - semi-analytic scheme for relativistic polarized radiative transport},} \mnras, 475, 43, \dodoi{10.1093/mnras/stx3162}
+
+% type= article
+\bibitem[{R. {Narayan} {et~al.}(2022){Narayan}, {Chael}, {Chatterjee}, {Ricarte}, \& {Curd}}]{2022MNRAS.511.3795N}
+{Narayan}, R., {Chael}, A., {Chatterjee}, K., {Ricarte}, A., \& {Curd}, B. 2022, \bibinfo{title}{{Jets in magnetically arrested hot accretion flows: geometry, power, and black hole spin-down},} \mnras, 511, 3795, \dodoi{10.1093/mnras/stac285}
+
+% type= article
+\bibitem[{R. {Narayan} {et~al.}(2019){Narayan}, {Johnson}, \& {Gammie}}]{2019ApJ...885L..33N}
+{Narayan}, R., {Johnson}, M.~D., \& {Gammie}, C.~F. 2019, \bibinfo{title}{{The Shadow of a Spherically Accreting Black Hole},} \apjl, 885, L33, \dodoi{10.3847/2041-8213/ab518c}
+
+% type= article
+\bibitem[{R. Narayan {et~al.}(2021)Narayan, Palumbo, Johnson, Gelles, Himwich, Chang, Ricarte, Dexter, Gammie, Chael, Akiyama, Alberdi, Alef, Algaba, Anantua, Asada, Azulay, Baczko, Ball, Baloković, Barrett, Benson, Bintley, Blackburn, Blundell, Boland, Bouman, Bower, Boyce, Bremer, Brinkerink, Brissenden, Britzen, Broderick, Broguiere, Bronzwaer, Byun, Carlstrom, kwan Chan, Chatterjee, Chatterjee, Chen, 陈永, Chesler, Cho, Christian, Conway, Cordes, Crawford, Crew, Cruz-Osorio, Cui, Davelaar, Laurentis, Deane, Dempsey, Desvignes, Doeleman, Eatough, Falcke, Farah, Fish, Fomalont, Ford, Fraga-Encinas, Friberg, Fromm, Fuentes, Galison, García, Gentaz, Georgiev, Goddi, Gold, Gómez, Gómez-Ruiz, 顾敏, Gurwell, Hada, Haggard, Hecht, Hesper, 何子, Ho, Honma, Huang, 黄, Hughes, Ikeda, Inoue, Issaoun, James, Jannuzi, Janssen, Jeter, 江, Jimenez-Rosales, Jorstad, Jung, Karami, Karuppusamy, Kawashima, Keating, Kettenis, Kim, Kim, Kim, Kim, Kino, Koay, Kofuji, Koch, Koyama, Kramer, Kramer, Krichbaum, Kuo,
+  Lauer, Lee, Levis, 李彦, 李志, Lindqvist, Lico, Lindahl, 刘, Liu, Liuzzo, Lo, Lobanov, Loinard, Lonsdale, 路如, MacDonald, 毛基, Marchili, Markoff, Marrone, Marscher, Martí-Vidal, Matsushita, Matthews, Medeiros, Menten, Mizuno, Mizuno, Moran, Moriyama, Moscibrodzka, Müller, Musoke, Mejías, Nagai, Nagar, Nakamura, Narayanan, Natarajan, Nathanail, Neilsen, Neri, Ni, Noutsos, Nowak, Okino, Olivares, Ortiz-León, Oyama, Özel, Park, Patel, Pen, Pesce, Piétu, Plambeck, PopStefanija, Porth, Pötzl, Prather, Preciado-López, Psaltis, Pu, Ramakrishnan, Rao, Rawlings, Raymond, Rezzolla, Ripperda, Roelofs, Rogers, Ros, Rose, Roshanineshat, Rottmann, Roy, Ruszczyk, Rygl, Sánchez, Sánchez-Arguelles, Sasada, Savolainen, Schloerb, Schuster, Shao, 沈志, Small, Sohn, SooHoo, 孙, Tazaki, Tetarenko, Tiede, Tilanus, Titus, Toma, Torne, Trent, Traianou, Trippe, van Bemmel, van Langevelde, van Rossum, Wagner, Ward-Thompson, Wardle, Weintroub, Wex, Wharton, Wielgus, Wong, 吴庆, Yoon, Young, Young, Younsi,
+  袁, 袁业, Zensus, Zhao, \& Zhao}]{Narayan2021}
+Narayan, R., Palumbo, D. C.~M., Johnson, M.~D., {et~al.} 2021, \bibinfo{title}{The Polarized Image of a Synchrotron-emitting Ring of Gas Orbiting a Black Hole,} The Astrophysical Journal, 912, 35, \dodoi{10.3847/1538-4357/abf117}
+
+% type= misc
+\bibitem[{F. O {et~al.}(2025)O, Protopapas, Pesce, Ricarte, Doeleman, Garraffo, Blackburn, \& Santillana}]{Franc}
+O, F., Protopapas, P., Pesce, D.~W., {et~al.} 2025, Parameter Inference of Black Hole Images using Deep Learning in Visibility Space, \doarXiv{2504.21840}
+
+% type= article
+\bibitem[{D.~C.~M. Palumbo {et~al.}(2022)Palumbo, Gelles, Tiede, Chang, Pesce, Chael, \& Johnson}]{Palumbo2022}
+Palumbo, D. C.~M., Gelles, Z., Tiede, P., {et~al.} 2022, \bibinfo{title}{Bayesian Accretion Modeling: Axisymmetric Equatorial Emission in the Kerr Spacetime,} The Astrophysical Journal, 939, 107, \dodoi{10.3847/1538-4357/ac9ab7}
+
+% type= article
+\bibitem[{D.~C.~M. Palumbo \& G.~N. Wong(2022)Palumbo \& Wong}]{Palumbo_2022}
+Palumbo, D. C.~M., \& Wong, G.~N. 2022, \bibinfo{title}{Photon Ring Symmetries in Simulated Linear Polarization Images of Messier 87*,} The Astrophysical Journal, 929, 49, \dodoi{10.3847/1538-4357/ac59b4}
+
+% type= article
+\bibitem[{D.~C.~M. {Palumbo} {et~al.}(2020){Palumbo}, {Wong}, \& {Prather}}]{2020ApJ...894..156P}
+{Palumbo}, D. C.~M., {Wong}, G.~N., \& {Prather}, B.~S. 2020, \bibinfo{title}{{Discriminating Accretion States via Rotational Symmetry in Simulated Polarimetric Images of M87},} \apj, 894, 156, \dodoi{10.3847/1538-4357/ab86ac}
+
+% type= article
+\bibitem[{E. Papoutsis {et~al.}(2023)Papoutsis, Bauböck, Chang, \& Gammie}]{Papoutsis_2023}
+Papoutsis, E., Bauböck, M., Chang, D., \& Gammie, C.~F. 2023, \bibinfo{title}{Jets and Rings in Images of Spinning Black Holes,} The Astrophysical Journal, 944, 55, \dodoi{10.3847/1538-4357/acafe3}
+
+% type= article
+\bibitem[{H.-Y. Pu {et~al.}(2016)Pu, Akiyama, \& Asada}]{Pu_2016}
+Pu, H.-Y., Akiyama, K., \& Asada, K. 2016, \bibinfo{title}{THE EFFECTS OF ACCRETION FLOW DYNAMICS ON THE BLACK HOLE SHADOW OF SAGITTARIUS A*,} The Astrophysical Journal, 831, 4, \dodoi{10.3847/0004-637X/831/1/4}
+
+% type= article
+\bibitem[{H.-Y. {Pu} \& A.~E. {Broderick}(2018{\natexlab{a}}){Pu} \& {Broderick}}]{2018ApJ...863..148P}
+{Pu}, H.-Y., \& {Broderick}, A.~E. 2018{\natexlab{a}}, \bibinfo{title}{{Probing the Innermost Accretion Flow Geometry of Sgr A* with Event Horizon Telescope},} \apj, 863, 148, \dodoi{10.3847/1538-4357/aad086}
+
+% type= article
+\bibitem[{H.-Y. {Pu} \& A.~E. {Broderick}(2018{\natexlab{b}}){Pu} \& {Broderick}}]{Pu_2018}
+{Pu}, H.-Y., \& {Broderick}, A.~E. 2018{\natexlab{b}}, \bibinfo{title}{{Probing the Innermost Accretion Flow Geometry of Sgr A* with Event Horizon Telescope},} \apj, 863, 148, \dodoi{10.3847/1538-4357/aad086}
+
+% type= article
+\bibitem[{N. {Surjanovic} {et~al.}(2023){Surjanovic}, {Biron-Lattes}, {Tiede}, {Syed}, {Campbell}, \& {Bouchard-C{\^o}t{\'e}}}]{2023arXiv230809769S}
+{Surjanovic}, N., {Biron-Lattes}, M., {Tiede}, P., {et~al.} 2023, \bibinfo{title}{{Pigeons.jl: Distributed Sampling From Intractable Distributions},} arXiv e-prints, arXiv:2308.09769, \dodoi{10.48550/arXiv.2308.09769}
+
+% type= inproceedings
+\bibitem[{N. Surjanovic {et~al.}(2022)Surjanovic, Syed, Bouchard-C\^{o}t\'{e}, \& Campbell}]{NEURIPS2022_03cd3cf3}
+Surjanovic, N., Syed, S., Bouchard-C\^{o}t\'{e}, A., \& Campbell, T. 2022, \bibinfo{title}{Parallel Tempering With a Variational Reference,} in Advances in Neural Information Processing Systems, ed. S.~Koyejo, S.~Mohamed, A.~Agarwal, D.~Belgrave, K.~Cho, \& A.~Oh, Vol.~35 (Curran Associates, Inc.), 565--577.
+\newblock \doarXiv{2206.00080}
+
+% type= article
+\bibitem[{S. Syed {et~al.}(2021)Syed, Bouchard-Côté, Deligiannidis, \& Doucet}]{10.1111/rssb.12464}
+Syed, S., Bouchard-Côté, A., Deligiannidis, G., \& Doucet, A. 2021, \bibinfo{title}{Non-Reversible Parallel Tempering: A Scalable Highly Parallel MCMC Scheme,} Journal of the Royal Statistical Society Series B: Statistical Methodology, 84, 321, \dodoi{10.1111/rssb.12464}
+
+% type= book
+\bibitem[{A.~R. {Thompson} {et~al.}(2017){Thompson}, {Moran}, \& {Swenson}}]{2017isra.book.....T}
+{Thompson}, A.~R., {Moran}, J.~M., \& {Swenson}, Jr., G.~W. 2017, {Interferometry and Synthesis in Radio Astronomy, 3rd Edition} (Berlin: Springer), \dodoi{10.1007/978-3-319-44431-4}
+
+% type= article
+\bibitem[{P. Tiede(2022)Tiede}]{Tiede2022}
+Tiede, P. 2022, \bibinfo{title}{Comrade: Composable Modeling of Radio Emission,} Journal of Open Source Software, 7, 4457, \dodoi{10.21105/joss.04457}
+
+% type= article
+\bibitem[{M. {Wielgus} {et~al.}(2022){Wielgus}, {Marchili}, {Mart{\'\i}-Vidal}, {Keating}, {Ramakrishnan}, {Tiede}, {Fomalont}, {Issaoun}, {Neilsen}, {Nowak}, {Blackburn}, {Gammie}, {Goddi}, {Haggard}, {Lee}, {Moscibrodzka}, {Tetarenko}, {Bower}, {Chan}, {Chatterjee}, {Chesler}, {Dexter}, {Doeleman}, {Georgiev}, {Gurwell}, {Johnson}, {Marrone}, {Mus}, {Psaltis}, {Ripperda}, {Witzel}, {Akiyama}, {Alberdi}, {Alef}, {Algaba}, {Anantua}, {Asada}, {Azulay}, {Bach}, {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Baub{\"o}ck}, {Benson}, {Bintley}, {Blundell}, {Boland}, {Bouman}, {Boyce}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen}, {Broderick}, {Broguiere}, {Bronzwaer}, {Bustamante}, {Byun}, {Carlstrom}, {Ceccobello}, {Chael}, {Chatterjee}, {Chen}, {Chen}, {Cho}, {Christian}, {Conroy}, {Conway}, {Cordes}, {Crawford}, {Crew}, {Cruz-Osorio}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey}, {Desvignes}, {Dhruv}, {Dzib}, {Eatough}, {Emami}, {Falcke}, {Farah}, {Fish}, {Ford}, {Fraga-Encinas}, {Freeman},
+  {Friberg}, {Fromm}, {Fuentes}, {Galison}, {Garc{\'\i}a}, {Gentaz}, {Gold}, {G{\'o}mez-Ruiz}, {G{\'o}mez}, {Gu}, {Hada}, {Haworth}, {Hecht}, {Hesper}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes}, {Ikeda}, {Impellizzeri}, {Inoue}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang}, {Jim{\'e}nez-Rosales}, {Jorstad}, {Joshi}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Kocherlakota}, {Kofuji}, {Koch}, {Koyama}, {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {La Bella}, {Lauer}, {Lee}, {Leung}, {Levis}, {Li}, {Lico}, {Lindahl}, {Lindqvist}, {Lisakov}, {Liu}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu}, {Mao}, {Markoff}, {Marscher}, {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Michalik}, {Mizuno}, {Mizuno}, {Moran}, {Moriyama}, {M{\"u}ller}, {Musoke}, {Myserlis}, {Nadolski}, {Nagai}, {Nagar}, {Nakamura}, {Narayan}, {Narayanan}, {Natarajan}, {Nathanail}, {Navarro Fuentes}, {Neri}, {Ni}, {Noutsos}, {Oh}, {Okino}, {Olivares},
+  {Ortiz-Le{\'o}n}, {Oyama}, {{\"O}zel}, {Palumbo}, {Paraschos}, {Park}, {Parsons}, {Patel}, {Pen}, {Pesce}, {Pi{\'e}tu}, {Plambeck}, \& {PopStefanija}}]{2022ApJ...930L..19W}
+{Wielgus}, M., {Marchili}, N., {Mart{\'\i}-Vidal}, I., {et~al.} 2022, \bibinfo{title}{{Millimeter Light Curves of Sagittarius A* Observed during the 2017 Event Horizon Telescope Campaign},} \apjl, 930, L19, \dodoi{10.3847/2041-8213/ac6428}
+
+% type= article
+\bibitem[{F. Yuan {et~al.}(2004)Yuan, Quataert, \& Narayan}]{Yuan_2004}
+Yuan, F., Quataert, E., \& Narayan, R. 2004, \bibinfo{title}{On the Nature of the Variable Infrared Emission from Sagittarius A*,} The Astrophysical Journal, 606, 894, \dodoi{10.1086/383117}
+
+\end{thebibliography}

@@ -1,0 +1,4 @@
+4# Note starting M/D is 5.03 uas which is then scaled by scale column for final M/D 
+#acc         spin        inc         Rhi         elec        PA          scale (M/D)
+MAD         -0.5        50          40          thermal     178.0       1.106
+

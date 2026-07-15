@@ -1,0 +1,6 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Comrade = "99d987ce-9a1e-4df8-bc0b-1ea019aa547b"
+MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
+Pyehtim = "3d61700d-6e5b-419a-8e22-9c066cf00468"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
