@@ -1,11 +1,13 @@
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Comrade = "99d987ce-9a1e-4df8-bc0b-1ea019aa547b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 DistributionsAD = "ced4e74d-a319-5a8a-b0ac-84af2272839c"
 DynamicPPL = "366bfd00-2699-11ea-058f-f148b4cae6d8"
 Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
 FINUFFT = "d8beea63-0952-562e-9c6a-8e8ef7364055"
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
 HypercubeTransform = "9ec9aee3-0fd3-44c2-8e61-a50acc66f3c8"
 IOCapture = "b5f81e59-6552-4d32-b1f0-c071b021bf89"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
